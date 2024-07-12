@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nirupam Mondal , currently pursuing Btech from IIT(ISM) Dhanbad .
 - 👀 I’m interested in Quantum Physics and trading
 - 🌱 I’m currently learning Physics , trading and LLM
-- 💞️ I’m looking to collaborate on building a dynamic software which will give correct prediction of indian stock market movement using real time news with very very high accuracy, technical analysis and other parameteres .
+- 💞️ I’m looking to collaborate on building a dynamic software which will give correct prediction of indian stock market movement with very very high accuracy, using real time news, technical analysis and other parameteres .
 - 📫 Email id : iitniru@gmail.com
 - 😄 Pronouns: He\him
 - ⚡ Fun fact: ...
